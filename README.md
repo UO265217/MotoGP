@@ -29,3 +29,9 @@
         - https://wave.webaim.org/
 
             - WCAG 2.0 AAA
+
+# DUDAS
+
+    - En la validación de ACCESIBILIDAD me da alerta por no tener subtitulos
+
+    - La pagina de adaptabilidad no me funciona
