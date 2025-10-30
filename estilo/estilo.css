@@ -30,5 +30,5 @@ nav {
 
 /* ESPECIFICIDAD 001 */
 a {
-    color: #1b55e2; /* WARNING: Hereda color de fondo de body */
+    color: #f5f5f5; /* WARNING: Hereda color de fondo de body */
 }
